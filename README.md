@@ -1,5 +1,5 @@
 # Tron Wallet Telegram Bot
-
+trc20
 This is a Telegram bot built to interact with the Tron blockchain. The bot allows users to generate wallets, transfer TRX, check balances, and get current TRX prices. It uses the TronWeb API for blockchain interactions and the CoinGecko API for fetching TRX prices.
 
 ## Features
